@@ -1,0 +1,99 @@
+@font-face {
+  font-family: fontello, sans-serif;
+  font-weight: 400;
+  src: url("/css/fonts/fonts_loombu_fontello.eot") format("embedded-opentype");
+}
+@font-face {
+  font-family: slick, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url("/css/fonts/fonts_loombu_slick.eot") format("truetype");
+}
+@font-face {
+  font-family: rsvpfont, sans-serif;
+  font-weight: 400;
+  src: url("/css/fonts/fonts_loombu_rsvpfont.eot") format("embedded-opentype");
+}
+@font-face {
+  font-family: wdpfont, sans-serif;
+  font-weight: 400;
+  src: url("/css/fonts/fonts_loombu_wdpfont.eot") format("embedded-opentype");
+}
+@font-face {
+  font-family: Ventura Times, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url("/css/fonts/fonts_loombu_ventura_times.ttf") format("truetype");
+}
+@font-face {
+  font-family: Cardo, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url("/css/fonts/fonts_loombu_cardo-regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: Cardo, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  src: url("/css/fonts/fonts_loombu_cardo-bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: Cardo, sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  src: url("/css/fonts/fonts_loombu_cardo-italic.ttf") format("truetype");
+}
+@font-face {
+  font-family: Amalfi Coast, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url("/css/fonts/fonts_loombu_amalfi-coast.ttf") format("truetype");
+}
+@font-face {
+  font-family: Sono, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url("/css/fonts/fonts_loombu_sono-regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: Sono, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  src: url("/css/fonts/fonts_loombu_sono-bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: Sono, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  src: url("/css/fonts/fonts_loombu_sono-extrabold.woff2") format("woff2");
+}
+@font-face {
+  font-family: Sono, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  src: url("/css/fonts/fonts_loombu_sono-light.woff2") format("woff2");
+}
+@font-face {
+  font-family: Sono, sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  src: url("/css/fonts/fonts_loombu_sono-extralight.woff2") format("woff2");
+}
+@font-face {
+  font-family: Sono, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  src: url("/css/fonts/fonts_loombu_sono-medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: Sono, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  src: url("/css/fonts/fonts_loombu_sono-semibold.woff2") format("woff2");
+}
+@font-face {
+  font-family: New York, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url("/css/fonts/fonts_loombu_newyork.ttf") format("truetype");
+}
